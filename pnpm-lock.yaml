@@ -83,15 +83,6 @@ importers:
         specifier: ^4.2.5
         version: 4.2.5
 
-  packages/lib:
-    dependencies:
-      '@hono/node-server':
-        specifier: ^1.10.0
-        version: 1.10.0
-      hono:
-        specifier: ^4.2.5
-        version: 4.2.5
-
 packages:
 
   '@ampproject/remapping@2.3.0':
