@@ -1,0 +1,16 @@
+{
+  "name": "backend-client",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "description": "",
+  "scripts": {
+    "check": "biome check --apply ."
+  },
+  "dependencies": {
+    "backend": "workspace:*",
+    "hono": "^4.2.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
